@@ -1,2 +1,2 @@
 Mongo DB URI 
-mongodb+srv://karthikvarna:Orange@12@cluster0.ts0yzkw.mongodb.net/
+mongodb+srv://<username>:<password>@cluster0.ts0yzkw.mongodb.net/
